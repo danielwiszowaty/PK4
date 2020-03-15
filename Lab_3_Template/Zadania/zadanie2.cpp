@@ -1,6 +1,7 @@
 
 #include "pch.h"
 #include <iostream>
+#include <time.h>
 
 
 /*  Zad.2.
